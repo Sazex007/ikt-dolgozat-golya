@@ -29,3 +29,23 @@ hr{
   justify-content: center; 
   align-items: center;  
 }
+.kep2{
+    float: right;
+    width: 230px;
+    height: 153px;
+}
+.tablazat{
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    border:
+}
+.cim{
+    text-align: center;
+    background-color: tomato;
+    color:cornsilk
+}
+.elsooszlop{
+    width: 240px;
+}
